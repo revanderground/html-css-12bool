@@ -1,0 +1,37 @@
+body{
+   background-color: rgb(255, 255, 255);
+}
+
+[class*="col-"], .col{
+   color: white;
+   border: 1px solid white;
+   background-color: #006CFA;
+   height:50px; 
+   padding-top: 15px; 
+}
+
+.col2{
+   color: white;
+   border: 1px solid white;
+   background-color: #006CFA;
+   height:100px; 
+   padding-top: 15px; 
+}
+
+
+
+.row{
+   background-color: #006CFA;
+}
+
+.bg-active{
+   background-color: rgb(0, 220, 0);
+   border: 1px solid #006CFA;
+}
+
+.nested{
+   height:30px;
+   padding: 5px;
+   border: 1px solid  #006CFA;
+}
+
